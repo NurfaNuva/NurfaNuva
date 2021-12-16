@@ -11,6 +11,11 @@
 [Our Organization](https://github.com/lepak-xyz)
 <br>
 
+[![NurfaNuva's GitHub stats](https://github-readme-stats.vercel.app/api?username=NurfaNuva&show_icons=true&theme=midnight-purple&custom_title=NurfaNuva's+GitHub+Stats)](https://github.com/NurfaNuva/github-readme-stats) 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurfaNuva&layout=compact&theme=midnight-purple&card_width=445&langs_count=6)](https://github.com/NurfaNuva/github-readme-stats)
+
 <!--
 **NurfaNuva/NurfaNuva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
