@@ -2,7 +2,7 @@
 
 #### My Gist https://github.com/NurfaNuva
 
-- 🔭 I’m currently working on software development project; UKMads.
+- 🔭 I’m currently working on software development project; myParcel.
 - 🌱 I’m currently leaning Laravel.
 - 💬 Ask me about nothing. I'm good with it.
 - 😄 Feel free to educate me if you find any unnecessary code in my repo.
